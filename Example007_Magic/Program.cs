@@ -20,7 +20,7 @@ Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
 
 int x = xa,
-    y = ya;
+    y = xb;
 int count = 0;
 
 while (count < 10000)
