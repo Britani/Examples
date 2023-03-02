@@ -24,7 +24,7 @@ while (index < n)
      if (ar[index] == find)
      {
         Console.WriteLine(index);
-        break;
+        break; 
      }
     
     //index = index + 1
